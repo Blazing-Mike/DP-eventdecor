@@ -1,0 +1,27 @@
+$grid-gap: 16px;
+$white-one:#ffffff;
+$grey-one:#373435;
+$grey-two:#838383;
+$heading: #211d1c;
+$bg-color: #262424;
+$purple:#9781e2;
+$blue: #43b1f4;
+$pink: #e8719f;
+$yellow-two: #aa9a78;
+$yellow: #c0a177;
+$black: #000000;
+.gap{
+    gap: 5px;
+}
+
+.gap-x{
+    gap: 1rem;
+}
+
+.gap-xx{
+    gap: 2rem;
+}
+
+.gap-xxx{
+    gap: 4rem;
+}

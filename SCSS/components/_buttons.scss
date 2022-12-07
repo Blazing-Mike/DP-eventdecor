@@ -1,0 +1,22 @@
+
+
+.primary-btn{
+    width: 14.75rem; //236px
+    height: 3.875; //62
+    border: 1px solid $yellow;
+    border-radius: 5.3rem; //85px
+    text-transform: uppercase;
+    color: $black;
+    font-family: $secondary-font;
+    font-weight: 400;
+    transition: 0.3s;
+}
+
+.transparent-btn{
+    background-color: transparent;
+
+    &:hover{
+        background-color: $yellow;
+        color: $white-one;
+    }
+}
